@@ -21,7 +21,7 @@ The two images below show the noisy audio file's waveform and power spectrum.
 
 ![](https://github.com/Fateme-Azizabadi/Removing-Noise-from-Audio-with-the-help-of-LSTM/blob/main/Images/Noisy.Waveform.png)
 
-![](https://github.com/Fateme-Azizabadi/Removing-Noise-from-Signals-with-the-help-of-RNN-LSTM/blob/main/Images/Noisy.Power.Spectrum.png)
+![](https://github.com/Fateme-Azizabadi/Removing-Noise-from-Audio-with-the-help-of-LSTM/blob/main/Images/Noisy.Power.Spectrum.png)
 
 Then we set aside 129 seconds for train data, 10 seconds for validation data, and 89 seconds for test data.
 
@@ -31,22 +31,22 @@ We designed the LSTM Network with the below features.
 
 ![](https://github.com/Fateme-Azizabadi/Removing-Noise-from-Audio-with-the-help-of-LSTM/blob/main/Images/LSTM.png)
 
-![](https://github.com/Fateme-Azizabadi/Removing-Noise-from-Signals-with-the-help-of-RNN-LSTM/blob/main/Images/output.png)
+![](https://github.com/Fateme-Azizabadi/Removing-Noise-from-Audio-with-the-help-of-LSTM/blob/main/Images/output.png)
 
-![](https://github.com/Fateme-Azizabadi/Removing-Noise-from-Signals-with-the-help-of-RNN-LSTM/blob/main/Images/Results.png)
+![](https://github.com/Fateme-Azizabadi/Removing-Noise-from-Audio-with-the-help-of-LSTM/blob/main/Images/Results.png)
 
 ## **Increase the length of the audio signal**
 
 Now we consider the entire audio signal as input, i.e., 4 minutes and 19 seconds.
 The below figures show the output of networks.
 
-![](https://github.com/Fateme-Azizabadi/Removing-Noise-from-Signals-with-the-help-of-RNN-LSTM/blob/main/Images/Waveform2.png)
+![](https://github.com/Fateme-Azizabadi/Removing-Noise-from-Audio-with-the-help-of-LSTM/blob/main/Images/Waveform2.png)
 
-![](https://github.com/Fateme-Azizabadi/Removing-Noise-from-Signals-with-the-help-of-RNN-LSTM/blob/main/Images/Power.Spectrum2.png)
+![](https://github.com/Fateme-Azizabadi/Removing-Noise-from-Audio-with-the-help-of-LSTM/blob/main/Images/Power.Spectrum2.png)
 
-![](https://github.com/Fateme-Azizabadi/Removing-Noise-from-Signals-with-the-help-of-RNN-LSTM/blob/main/Images/output2.png)
+![](https://github.com/Fateme-Azizabadi/Removing-Noise-from-Audio-with-the-help-of-LSTM/blob/main/Images/output2.png)
 
-![](https://github.com/Fateme-Azizabadi/Removing-Noise-from-Signals-with-the-help-of-RNN-LSTM/blob/main/Images/Results2.png)
+![](https://github.com/Fateme-Azizabadi/Removing-Noise-from-Audio-with-the-help-of-LSTM/blob/main/Images/Results2.png)
 
 
 
